@@ -89,3 +89,7 @@ html,
 .vertiefung-1 .info{
   max-width: 90vw;
 }
+
+.spacer{
+  height: 100px;
+}
